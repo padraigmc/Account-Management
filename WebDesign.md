@@ -2,7 +2,7 @@ ET4132 - Web Design Assignment
 ==============================
 
 1. Order
-⋅⋅⋅* orderID
+⋅⋅* orderID
 ---* customerID
 ---* packageID
 ---* description
